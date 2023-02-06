@@ -6,6 +6,6 @@ target 'ScrapingTest' do
   use_frameworks!
 
   # Pods for ScrapingTest
-  pod 'Alamofire'
-  pod 'Kanna'
+  pod 'Alamofire', '~> 5.2'
+  pod "Kanna"
 end
